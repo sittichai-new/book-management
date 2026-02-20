@@ -1,6 +1,9 @@
 # 📚 Book Management System
 ## คู่มือการติดตั้งด่วน (ภาษาไทย)
 
+<img width="1674" height="823" alt="image" src="https://github.com/user-attachments/assets/c0a2252a-8688-4aef-9394-7947750cada1" />
+<img width="1679" height="963" alt="image" src="https://github.com/user-attachments/assets/ea6d1e58-d268-43f6-be16-f5dac500c1d2" />
+
 ขั้นตอนที่ 1 — Backend
 
 - ไปที่โฟลเดอร์ `backend` และติดตั้งแพ็กเกจ:
